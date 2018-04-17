@@ -3,6 +3,31 @@ import string
 import pandas as pd
 import numpy as np
 
+
+
+
+
+
+
+
+
+"""
+
+df1=pd.read_csv("data/CensusBlockTIGER2010.csv")
+df2=pd.read_csv("Zip_Tract.csv")
+df3=pd.read_csv("WeatherData.csv")
+df4=df1.join(df2.set_index('TRACTCE10'), on='TRACTCE10')
+df4.dropna(subset=['Zip'], inplace=True)
+df3['Year'].astype(str)
+df3['month'].astype(str)
+df3['MeanTemperature'].astype(str)
+df3['MaxTemperature'].astype(str)
+merge = pd.merge(df4,df3,on=['Zip'])
+df5=df4.merge(df3, left_on='Zip', right_on='Zip', how='outer')
+print(df5.head(5))
+
+
+"""
 censusFile = open("data/CensusBlockTIGER2010.csv", "r");
 crimesFile = open("data/Crimes.csv", "r")
 outputFile = open("Crimes_Census_Final_output.csv", "w")

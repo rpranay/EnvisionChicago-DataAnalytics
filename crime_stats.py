@@ -2,6 +2,8 @@ import pandas as pd
 import re
 from difflib import SequenceMatcher
 import datetime
+import matplotlib.pyplot as plt
+
 
 crimes_file_path = "Crimes_Census_Final_output.csv"
 census_ages = "age_groups.csv"
@@ -56,10 +58,8 @@ def main():
     df = df[['census_block', 'max_age']]
     final_frame = pd.merge(df,no_crimes_data,on=['census_block'])
     final_frame.to_csv('crime_statistics_out.csv', encoding='utf-8', index=False)
-
-
-
-    print("done")
+    #df.plot.scatter(x='max_age', y='crimes_no');
+    print("Crime Statistics is Generated with the name crimes_statistics.csv in the Results folder")
 
 
 

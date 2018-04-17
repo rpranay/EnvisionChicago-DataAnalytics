@@ -57,7 +57,7 @@ def main():
     df = pd.DataFrame({'unique': df.groupby(['census_block','max_age']).size()}).reset_index()
     df = df[['census_block', 'max_age']]
     final_frame = pd.merge(df,no_crimes_data,on=['census_block'])
-    final_frame.to_csv('crime_statistics_out.csv', encoding='utf-8', index=False)
+    final_frame.to_csv('Results/crime_statistics_out.csv', encoding='utf-8', index=False)
     #df.plot.scatter(x='max_age', y='crimes_no');
     print("Crime Statistics is Generated with the name crimes_statistics.csv in the Results folder")
 

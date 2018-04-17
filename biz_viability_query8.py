@@ -63,8 +63,11 @@ def generate_biz_viability_report():
     inspection_data = fetch_inspection_data()
     inspection_data = inspection_data[inspection_data['Results'].str.lower().str.contains('fail')]
     yelp_integrated_frame['DATE_ISSUED'] = pd.to_datetime(yelp_integrated_frame['DATE_ISSUED'], format='%m/%d/%Y')
+    yelp_integrated_frame['DATE_ISSUED'] = yelp_integrated_frame['DATE_ISSUED'].dt.date
     yelp_integrated_frame['LICENSE_STATUS_CHANGE_DATE'] = pd.to_datetime(yelp_integrated_frame['LICENSE_STATUS_CHANGE_DATE'], format='%m/%d/%Y')
+    yelp_integrated_frame['LICENSE_STATUS_CHANGE_DATE'] = yelp_integrated_frame['LICENSE_STATUS_CHANGE_DATE'].dt.date
     inspection_data['Inspection_Date'] = pd.to_datetime(inspection_data['Inspection_Date'], format='%m/%d/%Y')
+    inspection_data['Inspection_Date'] = inspection_data['Inspection_Date'].dt.date
     inspection_data_test= inspection_data.groupby(['DOING_BUSINESS_AS_NAME', 'ADDRESS'])['Inspection_Date'].max().reset_index()
     yelp_int_test = yelp_integrated_frame.groupby(['DOING_BUSINESS_AS_NAME', 'ADDRESS'])['DATE_ISSUED'].max().reset_index()
     integ = pd.merge(inspection_data_test,yelp_int_test, on=['DOING_BUSINESS_AS_NAME'])

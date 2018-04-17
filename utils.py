@@ -1,3 +1,6 @@
+import sys
+
+
 def jaccard(str1, str2):
     str1 = replacing(str1)
     str2 = replacing(str2)
@@ -96,6 +99,15 @@ def address_replace(a):
     a = a.replace('drive', 'dr')
     return a
 
+
+def progress(progress, total, status=''):
+    length = 40  # modify this to change the length
+    block = int((progress/total)*40)
+    percent = (block/length)*100
+    msg = "\r[{0}] {1}%({2}/{3}) - {4}".format("#" * block + "-" * (length - block), round(percent, 2), progress, total, status)
+    if progress >= total: msg += " DONE\r\n"
+    sys.stdout.write(msg)
+    sys.stdout.flush()
 
 #print(jaccard("kfc express", "panda express"))
 #print(jaccard("bacci pizzeria", "bacci's pizza italy"))

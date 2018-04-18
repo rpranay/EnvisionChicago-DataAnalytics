@@ -1,5 +1,6 @@
 import sys
-
+import csv
+import pandas as pd
 
 def jaccard(str1, str2):
     str1 = replacing(str1)
@@ -108,6 +109,35 @@ def progress(progress, total, status=''):
     if progress >= total: msg += " DONE\r\n"
     sys.stdout.write(msg)
     sys.stdout.flush()
+
+
+def data_preprocessing():
+    review_file = open("Data/reviews_60601-60606.csv", "r")
+    clean_reviews_file = open("Data/clean_reviews_60601-60606.csv", "w")
+    review_reader = csv.reader(review_file)
+    row_count = len(list(review_reader))
+    review_file.seek(0)
+    i = 0
+    review_writer = csv.writer(clean_reviews_file)
+    count = 0
+    total_count = 0
+    for line in review_reader:
+        i += 1
+        if len(line) > 10:
+            str = line[3]
+            initial = 4
+            while initial < (len(line) - 6):
+                str = str + (line[initial])
+                del line[initial]
+            line[3] = str
+            count = count + 1
+        review_writer.writerow(line)
+        total_count = total_count + 1
+        progress(i, row_count, status='Cleaning reviews dataset')
+    reviews_pd = pd.read_csv("Data/clean_reviews_60601-60606.csv")
+    final_pd = reviews_pd[['reviewContent', 'rating']]
+    final_pd.to_csv("Data/preprocessed_reviews_file.csv")
+    clean_reviews_file.close()
 
 #print(jaccard("kfc express", "panda express"))
 #print(jaccard("bacci pizzeria", "bacci's pizza italy"))

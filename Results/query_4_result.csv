@@ -1,0 +1,248 @@
+Restaurant Name,Address,Average Yelp Review,#Pass,#Conditional,#Failed Inspection
+Walgreens,"191 N Clark St (between Couch Pl & Lake St) Chicago, IL 60601 Neighborhood: The Loop",4.0,3,1,0
+Banh Mi Express Sandwiches,"105 W Madison St Ste 109B (between Clark St & La Salle St) Chicago, IL 60603 Neighborhood: The Loop",3.0,2,0,2
+South Loop Club,"701 S State St (between Balbo Ave & Polk St) Chicago, IL 60605 Neighborhood: South Loop",3.0,11,1,0
+Baba's Village,"310A S Canal St (at Fulton St) Chicago, IL 60606 Neighborhood: Near West Side",3.0,8,1,1
+Warehouse Liquors,"634 S Wabash Ave (between Balbo Ave & Harrison St) Chicago, IL 60605 Neighborhood: South Loop",5.0,1,0,0
+Macy's,"111 N State St (between Washington St & Court Pl) Chicago, IL 60602 Neighborhood: The Loop",3.0,64,4,10
+Au Bon Pain,"125 S Wacker Dr (between Adams St & Clark St) Chicago, IL 60606 Neighborhood: The Loop",3.0,13,1,4
+Fannie May Candies,"144 S. Dearborn St. Chicago, IL 60603 Neighborhood: The Loop",4.0,2,1,0
+Walgreens,"30 N Michigan Ave Chicago, IL 60602 Neighborhood: The Loop",2.0,3,0,0
+Tesori,"65 E Adams St (between Wabash Ave & Dearborn St) Chicago, IL 60603 Neighborhood: The Loop",4.0,9,3,2
+Sarah's Pastries and Candies,"111 N. State St Macy's Street Level (between Court Pl & Washington St) Chicago, IL 60602",3.0,1,0,0
+Harold Washington College,"30 E Lake St (between Dearborn St & State St) Chicago, IL 60601 Neighborhood: The Loop",3.0,1,2,0
+Hackney's Printers' Row,"733 S Dearborn St (between Harrison St & Polk St) Chicago, IL 60605 Neighborhoods: Printer's Row, South Loop",4.0,10,1,1
+Au Bon Pain,"181 W Madison St Lobby 3 (between La Salle St & Wells St) Chicago, IL 60602",3.0,10,0,1
+Giordano's Pizzeria,"130 E Randolph St (between Beaubien Ct & Stetson Ave) Chicago, IL 60601 Neighborhood: The Loop",3.0,1,3,0
+Au Bon Pain Company,"181 W Madison St Lbby 3 (between La Salle St & Wells St) Chicago, IL 60602",3.0,10,0,1
+Argo Tea,"16 W Randolph St (between State St & Wabash Ave) Chicago, IL 60601 Neighborhood: The Loop",4.0,11,2,2
+Starbucks,"17 E Monroe St (between State St & Wabash Ave) Chicago, IL 60603 Neighborhood: The Loop",4.0,7,0,0
+Falafill,"72 E Adams St Chicago, IL 60604 Neighborhood: The Loop",5.0,1,2,1
+Palmer House- Hilton Hotel,"17 E Monroe St (between Wabash Ave & State St) Chicago, IL 60603 Neighborhood: The Loop",4.0,12,0,2
+Nicola's Pizzeria,"400 S Financial Pl (between Van Buren St & Congress Pky) Chicago, IL 60605 Neighborhood: The Loop",4.0,1,0,0
+Flo & Santos,"1310 S Wabash Ave (between 13th St & 14th St) Chicago, IL 60605 Neighborhood: Near Southside",4.0,13,2,8
+Hannah's Bretzel,"131 S Dearborn St Chicago, IL 60603 Neighborhood: The Loop",4.0,10,2,0
+Walgreens,"300 N Michigan Ave (between Wacker Pl & Macchesneyer Dr) Chicago, IL 60601 Neighborhood: The Loop",3.0,4,0,1
+Haifa Cafe,"19 N Wells St Chicago, IL 60606 Neighborhood: The Loop",3.0,7,2,5
+Wow Bao,"225 N Michigan Ave (between Lake St & Wacker Pl) Chicago, IL 60601 Neighborhood: The Loop",4.0,9,1,0
+7-Eleven,"48 N Wells St Chicago, IL 60606 Neighborhood: The Loop",3.0,8,4,3
+Taco Fresco,"23 E Adams St (between State St & Dearborn St) Chicago, IL 60603 Neighborhood: The Loop",2.0,6,1,1
+Starbucks,"200 N Michigan Ave (between Lake St & Wacker Pl) Chicago, IL 60601 Neighborhood: The Loop",3.0,12,0,0
+Which Wich Superior Sandwiches,"108 N State St Ste 002 (between Washington St & Court Pl) Chicago, IL 60602 Neighborhood: The Loop",4.0,9,4,2
+Fitness Formula Clubs,"1151 S State St (between 11th St & Roosevelt Rd) Chicago, IL 60605 Neighborhood: South Loop",4.0,4,0,3
+Opart Thai House,"1906 S State St Chicago, IL 60606 Neighborhood: Near Southside",4.0,5,4,1
+Gino's East Sports Bar,"521 S Dearborn St (between Harrison St & Congress Pky) Chicago, IL 60605 Neighborhoods: Printer's Row, South Loop",4.0,2,0,0
+Simply Greens,"500 W Madison St Chicago, IL 60606 Neighborhood: Near West Side",2.0,14,3,1
+Wow Bao,"1 W Wacker Dr Ste 107 (at Wabash Ave) Chicago, IL 60601 Neighborhood: The Loop",4.0,12,0,0
+Qdoba Mexican Grill,"328 N Michigan Ave (between Wacker Pl & Macchesneyer Dr) Chicago, IL 60601 Neighborhood: The Loop",3.0,2,1,0
+Thai Spoon,"601 S Wabash Ave (between Harrison St & Balbo Ave) Chicago, IL 60605 Neighborhood: South Loop",3.0,12,1,3
+Market Creations,"20 N Wacker Dr (between Arcade Pl & Dearborn St) Chicago, IL 60606 Neighborhood: The Loop",3.0,5,7,0
+Mac Kelly's Greens & Things,"216 W Jackson Blvd (between Franklin St & Wells St) Chicago, IL 60606 Neighborhood: The Loop",4.0,4,1,1
+XSport Fitness,"819 South State Street (between Polk St & 9th St) Chicago, IL 60605 Neighborhood: South Loop",3.0,5,1,2
+Hannah's Bretzel,"233 N Michigan Ave Illinois Center, Concourse Level (between Lake St & Wacker Pl) Chicago, IL 60601 Neighborhood: The Loop",4.0,9,0,0
+Sbarro,"100 W Randolph St (between Beaubien Ct & Michigan Ave) Chicago, IL 60601 Neighborhood: The Loop",3.0,13,2,3
+Weather Mark Tavern,"1503 S Michigan Ave (at 14th St) Chicago, IL 60605 Neighborhood: Near Southside",4.0,10,0,0
+The Art Institute of Chicago,"111 S Michigan Ave (between Adams St & Monroe St) Chicago, IL 60603 Neighborhood: The Loop",5.0,3,1,1
+Osaka Express,"400 S Michigan Ave (between Van Buren St & Congress Pky) Chicago, IL 60605 Neighborhood: The Loop",4.0,9,0,0
+Au Bon Pain,"161 N Clark St (between Couch Pl & Randolph St) Chicago, IL 60601 Neighborhood: The Loop",2.0,4,1,0
+Taco Fresco,"151 E Randolph St Millenium Park Train Station Concourse Chicago, IL 60602 Neighborhood: The Loop",3.0,6,1,1
+Oodles Of Noodles,"29 E Adams St (between Wabash Ave & Dearborn St) Chicago, IL 60603 Neighborhood: The Loop",3.0,2,0,0
+The Green at Grant Park,"352 E Monroe St (between Columbus Dr & United States Highway 41) Chicago, IL 60603 Neighborhood: The Loop",4.0,1,0,1
+Sopraffina Marketcaffe,"10 N Dearborn St (between Calhoun Pl & Madison St) Chicago, IL 60602 Neighborhood: The Loop",4.0,14,0,1
+Argo Tea,"1 S Franklin St (between Madison St & Arcade Pl) Chicago, IL 60606 Neighborhood: The Loop",4.0,8,0,1
+Flaco's Tacos,"725 S Dearborn St (between Polk St & Harrison St) Chicago, IL 60605 Neighborhoods: Printer's Row, South Loop",4.0,8,3,2
+U.B. Dogs,"185 N Franklin St (between Monroe St & Couch Pl) Chicago, IL 60606 Neighborhood: The Loop",5.0,8,0,1
+Palm Restaurant,"323 E Wacker Dr At the Swissotel (between Columbus Dr & Field Blvd) Chicago, IL 60601 Neighborhood: The Loop",4.0,8,0,3
+Overflow Coffee Bar,"1550 S State St (at 16th St) Chicago, IL 60605 Neighborhood: Near Southside",5.0,7,0,0
+Grillers,"77 W Jackson Blvd (between Wabash Ave & Michigan Ave) Chicago, IL 60604 Neighborhood: The Loop",4.0,6,0,1
+Simply Thalia,"108 N State St Block 37 - Pedway Level (between Washington St & Court Pl) Chicago, IL 60602 Neighborhood: The Loop",2.0,8,4,3
+Alain's,"1355 S Michigan Ave (between 13th St & 14th St) Chicago, IL 60605 Neighborhood: Near Southside",4.0,2,0,3
+Wildberry Cafe,"130 E Randolph St (between Beaubien Ct & Stetson Ave) Chicago, IL 60601 Neighborhood: The Loop",4.0,6,3,2
+Americana Submarine,"400 S Clark St (between Congress Pky & Van Buren St) Chicago, IL 60605 Neighborhood: The Loop",2.0,6,7,1
+Silk Road Jackson,"216 W Jackson Blvd Ste 1 (between Franklin St & Wells St) Chicago, IL 60606 Neighborhood: The Loop",4.0,2,0,1
+Avanti CaffÃ©,"200 W Jackson Blvd (between Franklin St & Wells St) Chicago, IL 60606 Neighborhood: The Loop",4.0,9,1,2
+Yolk,"1120 S Michigan Ave (between 11th St & Roosevelt Rd) Chicago, IL 60605 Neighborhood: South Loop",4.0,10,2,2
+Hotel Monaco,"225 N Wabash Ave Chicago, IL 60601 Neighborhood: The Loop",4.0,12,3,3
+7-Eleven,"174 N Michigan Ave (between Lake St & Randolph St) Chicago, IL 60601 Neighborhood: The Loop",3.0,4,1,0
+Starbucks,"111 W Washington St (between Clark St & La Salle St) Chicago, IL 60602",5.0,6,0,1
+Hong Kong Cafe,"5 S Wabash Ave Ste 300 Chicago, IL 60603 Neighborhood: The Loop",4.0,1,0,1
+Zapatista,"1307 S Wabash Ave (between 13th St & 14th St) Chicago, IL 60605 Neighborhood: Near Southside",4.0,12,1,5
+Arby's,"100 W Randolph St (between Michigan Ave & Beaubien Ct) Chicago, IL 60601 Neighborhood: The Loop",3.0,10,0,4
+Starbucks,"209 W Jackson Blvd (between Wells St & Franklin St) Chicago, IL 60606 Neighborhood: The Loop",4.0,6,0,0
+Panera Bread,"2 N Michigan Ave Chicago, IL 60602 Neighborhood: The Loop",3.0,15,1,7
+The Scout Running Club,"1301 S Wabash St (between 13th St & 14th St) Chicago, IL 60605 Neighborhood: Near Southside",5.0,10,2,1
+Wow Bao Restaurant,"175 W Jackson Blvd (at Michigan Ave) Chicago, IL 60604 Neighborhood: The Loop",4.0,16,3,3
+Panozzo's Italian Market,"1303 S Michigan Ave (between 13th St & 14th St) Chicago, IL 60605 Neighborhood: Near Southside",5.0,3,0,1
+Shark's Fish & Chicken,"420 S Clark St (between Van Buren St & Congress Pky) Chicago, IL 60605 Neighborhood: The Loop",3.0,6,1,2
+Wow Bow,"225 N Michigan Ave (between Lake St & Wacker Pl) Chicago, IL 60601 Neighborhood: The Loop",4.0,9,1,0
+Taza,"176 N Franklin St (between Monroe St & Couch Pl) Chicago, IL 60606 Neighborhood: The Loop",5.0,9,1,0
+I Dream Of Falafel,"331 S Franklin St (between Jackson Blvd & Van Buren St) Chicago, IL 60606 Neighborhood: The Loop",4.0,7,2,2
+Walgreens,"15 W Washington St (between Holden Ct & Dearborn St) Chicago, IL 60602 Neighborhood: The Loop",4.0,4,0,0
+Five Guys Burgers & Fries,"1146 S Wabash Ave (between 11th St & Roosevelt Rd) Chicago, IL 60605 Neighborhood: South Loop",4.0,7,0,0
+Starbucks,"10 S Riverside Plaza Ste 130 Chicago, IL 60601 Neighborhood: Near West Side",4.0,7,0,1
+Target,"1 S State St (between Madison St & Calhoun Pl) Chicago, IL 60602 Neighborhood: The Loop",4.0,3,0,0
+The Tower Club,"20 N Wacker Dr (between Madison St & State St) Chicago, IL 60606 Neighborhood: The Loop",5.0,2,0,1
+Starbucks,"311 S Wacker Dr (between Jackson Blvd & Franklin St) Chicago, IL 60606 Neighborhood: The Loop",4.0,6,0,0
+au bon pain,"122 s michigan avenue (between Monroe St & Adams St) Chicago, IL 60603 Neighborhood: The Loop",1.0,5,0,0
+Flavor 180,"1511 S State St (at 15th St) Chicago, IL 60605 Neighborhood: Near Southside",4.0,9,0,4
+Walgreens,"151 N State St 1st Fl (between Benton Pl & Randolph St) Chicago, IL 60601 Neighborhood: The Loop",5.0,10,1,3
+The Scout,"1301 S Wabash Ave (between 13th St & 14th St) Chicago, IL 60605 Neighborhood: Near Southside",3.0,10,2,1
+Alonti Market Cafe,"1 N Franklin St (between Madison St & Arcade Pl) Chicago, IL 60606 Neighborhood: The Loop",4.0,4,2,1
+The India Grill,"1112 S Wabash Ave (between 11th St & Roosevelt Rd) Chicago, IL 60605 Neighborhood: South Loop",2.0,0,0,1
+Starbucks,"68 E Madison St (between Wabash Ave & Garland Ct) Chicago, IL 60602 Neighborhood: The Loop",3.0,7,3,3
+Green Apple Cafe,"200 E Randolph St AON Ctr (at Stetson Ave) Chicago, IL 60601",4.0,7,1,3
+Starbucks,"10 S Dearborn St Ste 210 Chicago, IL 60603 Neighborhood: The Loop",4.0,8,0,1
+Starbucks,"555 S Dearborn St (between Congress Pky & Harrison St) Chicago, IL 60605 Neighborhoods: Printer's Row, South Loop",3.0,4,4,1
+Yogen Fruz,"303 W Madison St (between Franklin St & Wacker Dr) Chicago, IL 60606 Neighborhood: The Loop",4.0,1,0,0
+Marcello's Market & Deli,"155 N Wacker Dr (between Monroe St & Randolph St) Chicago, IL 60606 Neighborhood: The Loop",3.0,9,1,3
+Off the Tracks Grill,"190 N Wells St Chicago, IL 60606 Neighborhood: The Loop",4.0,8,3,0
+A Mano,"335 N Dearborn St Chicago, IL 60601 Neighborhood: Near North Side",4.0,1,0,1
+The Chicago Firehouse Restaurant,"1401 S Michigan Ave (at 14th St) Chicago, IL 60605 Neighborhood: Near Southside",4.0,8,1,6
+Jaffa Bakery,"105 W Madison St (between Clark St & La Salle St) Chicago, IL 60602 Neighborhood: The Loop",3.0,5,0,7
+Tavern At The Park,"130 E Randolph St (between Beaubien Ct & Stetson Ave) Chicago, IL 60601 Neighborhood: The Loop",4.0,10,0,4
+Panda Express,"77 E Adams St (between Dearborn St & Wabash Ave) Chicago, IL 60603 Neighborhood: The Loop",4.0,11,0,0
+Nino Paninos,"225 S Canal St Ste 1 (between Adams St & Milwaukee Ave) Chicago, IL 60606 Neighborhood: Near West Side",4.0,1,1,0
+Radisson Blu Aqua,"221 N Columbus Dr (between Lower South Water & Water St) Chicago, IL 60601 Neighborhood: The Loop",5.0,10,3,3
+Starbucks,"130 S Canal St (between Monroe St & Washington Blvd) Chicago, IL 60606 Neighborhood: Near West Side",5.0,7,2,1
+Fitness Formula Clubs,"444 W Jackson Blvd (between Riverside Plz & Canal St) Chicago, IL 60606 Neighborhood: Near West Side",4.0,2,0,0
+La Cocina,"406 S Clark St (between Congress Pky & Van Buren St) Chicago, IL 60605 Neighborhood: The Loop",3.0,13,1,3
+Mac Kelly's Greens & Things,"123 W Madison St Lbby 1 (between Clark St & La Salle St) Chicago, IL 60602",4.0,7,3,1
+Au Bon Pain,"200 E Randolph St (at Stetson Ave) Chicago, IL 60601 Neighborhood: The Loop",3.0,9,0,0
+Venice Cafe,"233 S Wacker Dr Lower Level 1 (between Adams St & Wells St) Chicago, IL 60606 Neighborhood: The Loop",4.0,7,3,2
+Hot Woks Cool Sushi,"30 S Michigan Ave (between Madison St & Monroe St) Chicago, IL 60603 Neighborhood: The Loop",4.0,8,3,1
+Wabash Tap,"1233 S Wabash Ave (between 11th St & 13th St) Chicago, IL 60605 Neighborhood: Near Southside",4.0,8,0,2
+Alonti Cafe,"177 W Washington St (between La Salle St & Wells St) Chicago, IL 60602 Neighborhood: The Loop",4.0,2,0,0
+Panera Bread,"250 S Wacker Dr (between Adams St & Wells St) Chicago, IL 60606 Neighborhood: The Loop",4.0,10,2,3
+Garrett Popcorn Shops,"4 E Madison St (between State St & Holden Ct) Chicago, IL 60602 Neighborhood: The Loop",5.0,6,1,0
+Vista Carry Out,"233 N Michigan Ave (between Lake St & Wacker Pl) Chicago, IL 60601 Neighborhood: The Loop",3.0,9,0,1
+La Cocina,"45 N Wells St Chicago, IL 60606 Neighborhood: The Loop",4.0,11,2,0
+Asian Chao and Villa Italian,"18 W Jackson Blvd (between State St & Wabash Ave) Chicago, IL 60604 Neighborhood: The Loop",2.0,2,0,1
+La Cocina,"178 N Franklin St (between Monroe St & Couch Pl) Chicago, IL 60606 Neighborhood: The Loop",4.0,9,1,2
+Taco Fresco,"180 N Wells St Chicago, IL 60606 Neighborhood: The Loop",3.0,6,0,3
+Native Foods Cafe,"218 S Clark St Chicago, IL 60604 Neighborhood: The Loop",4.0,12,2,7
+Panda Express,"110 W Monroe St (at Michigan Ave) Chicago, IL 60603 Neighborhood: The Loop",2.0,5,0,0
+Garrett Popcorn Shops,"26 W Randolph St (between State St & Wabash Ave) Chicago, IL 60601 Neighborhood: The Loop",4.0,7,0,0
+Panda Express,"77 W Jackson Blvd (between Michigan Ave & Wabash Ave) Chicago, IL 60604 Neighborhood: The Loop",4.0,1,0,0
+Starbucks,"105 W Adams St (between Clark St & La Salle St) Chicago, IL 60603 Neighborhood: The Loop",4.0,7,0,2
+Heaven On Seven On Wabash,"111 N Wabash Ave Ste 700 Chicago, IL 60602 Neighborhood: The Loop",4.0,8,0,3
+The Chicago Hire Company,"35 E Wacker Dr Ste 620 (between Wabash Ave & Lower Wacker Dr) Chicago, IL 60601 Neighborhood: The Loop",5.0,3,1,0
+The Plaza at Park Grill,"11 N Michigan Ave Chicago, IL 60602 Neighborhood: The Loop",3.0,10,1,5
+Walgreens,"250 S Wacker Dr (between Adams St & Wells St) Chicago, IL 60606 Neighborhood: The Loop",5.0,2,0,1
+Au Bon Pain,"122 S Michigan Ave (between Adams St & Monroe St) Chicago, IL 60603 Neighborhood: The Loop",3.0,5,0,0
+America's Dog,"21 E Adams St (between Dearborn St & State St) Chicago, IL 60603 Neighborhood: The Loop",3.0,6,0,1
+Panda Express,"100 W Randolph St (between Michigan Ave & Beaubien Ct) Chicago, IL 60601 Neighborhood: The Loop",3.0,11,1,3
+Shalom Deli,"7 N Wells St Chicago, IL 60606 Neighborhood: The Loop",3.0,2,0,0
+Starbucks,"400 W Madison St Ste 5 (at Riverside Plz) Chicago, IL 60606 Neighborhood: Near West Side",5.0,4,1,0
+Atwood Cafe,"1 W Washington St (between State St & Holden Ct) Chicago, IL 60602 Neighborhood: The Loop",4.0,3,1,0
+America's Dog,"26 E Randolph St (between State St & Wabash Ave) Chicago, IL 60601 Neighborhood: The Loop",4.0,9,2,2
+Argo Tea,"140 S Dearborn St Chicago, IL 60603 Neighborhood: The Loop",4.0,6,0,1
+Sopraffina Marketcaffe,"222 W Adams St (between Wells St & Franklin St) Chicago, IL 60606 Neighborhood: The Loop",4.0,11,4,2
+Hard Rock Hotel,"230 N Michigan Ave (between Lake St & Wacker Pl) Chicago, IL 60601 Neighborhood: The Loop",4.0,20,5,4
+Mac Kelly's Greens & Things,"177 N Wells St Chicago, IL 60606 Neighborhood: The Loop",3.0,3,0,0
+Giordano's Pizzeria,"223 W Jackson Blvd (between Franklin St & Wells St) Chicago, IL 60606 Neighborhood: The Loop",4.0,15,5,2
+Sticky Fingers Gourmet Popcorn,"174 N Michigan Ave (between Randolph St & Lake St) Chicago, IL 60601 Neighborhood: The Loop",3.0,2,0,0
+Union League Club,"65 W Jackson Blvd (between Wabash Ave & Michigan Ave) Chicago, IL 60604 Neighborhood: The Loop",4.0,19,2,3
+The Great Steak & Potato Company,"233 N Michigan Ave (between Lake St & Wacker Pl) Chicago, IL 60601 Neighborhood: The Loop",2.0,5,0,0
+Sbarro,"211 W Adams St (between Franklin St & Wells St) Chicago, IL 60606 Neighborhood: The Loop",2.0,7,0,0
+Stocks & Blondes Bar & Grille,"40 N Wells St Chicago, IL 60606 Neighborhood: The Loop",3.0,6,2,2
+Magnolia Bakery,"108 N State St Chicago, IL 60601 Neighborhood: The Loop",3.0,10,1,2
+Halsted Street Deli,"177 N State St (between Benton Pl & Couch Pl) Chicago, IL 60601 Neighborhood: The Loop",3.0,4,0,2
+Starbucks,"225 N Michigan Ave (between Lake St & Wacker Pl) Chicago, IL 60601 Neighborhood: The Loop",3.0,8,0,1
+Simply Fresh,"150 N Michigan Ave #120A (at Randolph St) Chicago, IL 60601 Neighborhood: The Loop",4.0,6,1,0
+Avec,"615 W Randolph St Chicago, IL 60606 Neighborhood: Near West Side",5.0,8,2,2
+Walgreens,"16 W Adams St Chicago, IL 60603 Neighborhood: The Loop",4.0,3,0,0
+Stefani's Tuscany Cafe,"77 W Wacker Dr (between Macchesneyer Dr & Lower Wacker Dr) Chicago, IL 60601 Neighborhood: The Loop",3.0,2,1,0
+Fontano's Subs,"20 E Jackson Blvd (between State St & Wabash Ave) Chicago, IL 60604 Neighborhood: The Loop",4.0,4,0,0
+La Cocina Mexican Grill,"11 W Jackson Blvd (between State St & Wabash Ave) Chicago, IL 60604 Neighborhood: The Loop",4.0,1,0,0
+Starbucks,"200 W Adams St (between Wells St & Franklin St) Chicago, IL 60606 Neighborhood: The Loop",3.0,8,0,0
+Walgreens,"201 W Madison St (between Wells St & Franklin St) Chicago, IL 60606 Neighborhood: The Loop",4.0,2,0,1
+Sixty Five Chinese Restaurant,"201 W Madison St (between Franklin St & Wells St) Chicago, IL 60606 Neighborhood: The Loop",4.0,11,1,0
+Thai Spoon & Sushi,"601 S Wabash Ave (between Harrison St & Balbo Ave) Chicago, IL 60605 Neighborhood: South Loop",3.0,12,1,3
+Madison Street Cafe,"70 W Madison St (between Garland Ct & Michigan Ave) Chicago, IL 60602 Neighborhood: The Loop",4.0,6,1,2
+Taco Fresco,"29 N Wacker Dr (between Madison St & State St) Chicago, IL 60606 Neighborhood: The Loop",3.0,11,0,0
+Standing Room Only,"610 S Dearborn St (between Harrison St & Polk St) Chicago, IL 60605 Neighborhoods: Printer's Row, South Loop",4.0,6,0,0
+Taco Fresco,"218 S Clark St Chicago, IL 60604 Neighborhood: The Loop",3.0,2,0,0
+Panda Express,"209 W Jackson Blvd (between Franklin St & Wells St) Chicago, IL 60606 Neighborhood: The Loop",4.0,13,1,3
+Rainforest Learning Center,"1325 S State St (between 13th St & 14th St) Chicago, IL 60605 Neighborhood: Near Southside",3.0,12,0,0
+Zacatacos,"17 S Wabash Ave Chicago, IL 60603 Neighborhood: The Loop",4.0,1,1,0
+Renaissance Chicago Downtown Hotel,"1 W Wacker Dr (at Wabash Ave) Chicago, IL 60601 Neighborhood: The Loop",4.0,29,3,2
+Hotel Burnham,"1 W Washington St Chicago, IL 60601 Neighborhood: The Loop",5.0,10,4,8
+Noodles & Company,"180 N Michigan Ave (at Lake St) Chicago, IL 60601 Neighborhood: The Loop",3.0,15,0,0
+HomeMade Pizza Company,"1347 S Michigan Ave (between 13th St & 14th St) Chicago, IL 60605 Neighborhood: Near Southside",4.0,4,0,0
+Amarit Thai Restaurant,"600 S Dearborn St (between Harrison St & Polk St) Chicago, IL 60605 Neighborhoods: Printer's Row, South Loop",3.0,11,0,4
+Qdoba Mexican Grill,"175 W Jackson Blvd (at Michigan Ave) Chicago, IL 60604 Neighborhood: The Loop",4.0,10,3,0
+Harold's Chicken Shack,"636 S Wabash Ave (between Balbo Ave & Harrison St) Chicago, IL 60605 Neighborhood: South Loop",4.0,1,0,1
+Valeo Chicago,"151 W Adams St Chicago, IL 60604 Neighborhood: The Loop",4.0,1,0,3
+Bar Louie,"47 W Polk St (between Dearborn St & Federal St) Chicago, IL 60605 Neighborhood: South Loop",3.0,11,2,9
+Starbucks,"25 E Washington Blvd Chicago, IL 60606 Neighborhood: The Loop",3.0,6,0,0
+Goodwin's,"175 N Franklin St Ste 106 (between Monroe St & Couch Pl) Chicago, IL 60606 Neighborhood: The Loop",4.0,2,0,0
+Artist's Cafe,"412 S Michigan Ave (between Van Buren St & Congress Pky) Chicago, IL 60605 Neighborhood: The Loop",2.0,12,3,0
+I Dream of Falafel,"112 W Monroe St (at Michigan Ave) Chicago, IL 60603 Neighborhood: The Loop",4.0,5,0,2
+One North Kitchen & Bar,"1 N Wacker Dr (between Madison St & State St) Chicago, IL 60606 Neighborhood: The Loop",3.0,9,2,3
+Target,"1 S State St (between Madison St & Calhoun Pl) Chicago, IL 60602 Neighborhood: The Loop",3.0,3,0,0
+Tamarind,"614 S Wabash Ave (between Balbo Ave & Harrison St) Chicago, IL 60605 Neighborhood: South Loop",4.0,10,0,3
+Under 55 Cafe,"55 E Monroe St (between Michigan Ave & Wabash Ave) Chicago, IL 60603 Neighborhood: The Loop",4.0,9,2,3
+Mariano's Fresh Market,"333 East Benton Pl Ste 206 Chicago, IL 60601 Neighborhood: The Loop",5.0,26,7,8
+The Congress Plaza Hotel & Convention Center,"520 S Michigan Avenue Chicago, IL 60605 Neighborhood: South Loop",3.0,23,4,6
+Siam Rice,"117 N Wells St Chicago, IL 60606 Neighborhood: The Loop",4.0,9,2,4
+Quiznos,"333 S Franklin St (between Jackson Blvd & Van Buren St) Chicago, IL 60606 Neighborhood: The Loop",3.0,1,0,0
+Alonti Deli,"300 S Riverside Plz (between Jackson Blvd & Van Buren St) Chicago, IL 60606 Neighborhood: Near West Side",3.0,13,8,3
+The Silversmith Hotel & Suites,"10 S Wabash Ave Chicago, IL 60603 Neighborhood: The Loop",4.0,8,3,6
+Halsted Street Deli,"1 S Franklin St (between Madison St & Arcade Pl) Chicago, IL 60606 Neighborhood: The Loop",3.0,3,0,0
+Halsted Street Deli,"233 N Michigan Ave (between Lake St & Wacker Pl) Chicago, IL 60601 Neighborhood: The Loop",3.0,6,6,0
+Jaffa Bakery,"225 N Michigan Ave (between Lake St & Wacker Pl) Chicago, IL 60601 Neighborhood: The Loop",4.0,7,3,1
+Starbucks,"55 E Jackson Blvd (between Wabash Ave & Michigan Ave) Chicago, IL 60604 Neighborhood: The Loop",4.0,7,0,1
+Sbarro,"195 N Dearborn St (between Couch Pl & Lake St) Chicago, IL 60601 Neighborhood: The Loop",3.0,0,0,1
+Wok Out,"823 S State St (between 8th St & Polk St) Chicago, IL 60605 Neighborhood: South Loop",3.0,2,0,0
+Oriental Express,"233 E Wacker Dr Chicago, IL 60601 Neighborhood: The Loop",3.0,4,0,0
+Maison Brasserie,"333 E Benton Pl Chicago, IL 60601 Neighborhood: The Loop",4.0,3,0,0
+South Branch,"100 S Wacker Dr (between Monroe St & Washington St) Chicago, IL 60606 Neighborhood: The Loop",4.0,8,6,1
+Green Apple,"201 N Clark St 2nd Floor (between Lake St & Haddock Pl) Chicago, IL 60601 Neighborhood: The Loop",4.0,4,1,3
+Haifa Cafe,"318 W Adams St (between Franklin St & Wacker Dr) Chicago, IL 60606 Neighborhood: The Loop",3.0,1,0,0
+Starbucks,"200 W Madison St (between Wells St & Franklin St) Chicago, IL 60606 Neighborhood: The Loop",5.0,8,0,0
+Starbucks,"233 S Wacker Dr (between Adams St & Wells St) Chicago, IL 60606 Neighborhood: The Loop",4.0,9,0,1
+Starbucks,"171 W Randolph St Chicago, IL 60602 Neighborhood: The Loop",4.0,5,1,1
+Au Bon Pain,"200 W Adams St (between Wells St & Franklin St) Chicago, IL 60606 Neighborhood: The Loop",3.0,11,3,3
+Starbucks,"111 W Washington St (between Clark St & La Salle St) Chicago, IL 60602 Neighborhood: The Loop",3.0,6,0,1
+Gallery 37,"66 E Randolph St (between Wabash Ave & Garland Ct) Chicago, IL 60601 Neighborhood: The Loop",5.0,2,0,0
+Halo Asian Mix,"29 E Adams St (between State St & Dearborn St) Chicago, IL 60603 Neighborhood: The Loop",4.0,2,1,4
+University Club of Chicago,"76 E Monroe St (between Michigan Ave & Wabash Ave) Chicago, IL 60603 Neighborhood: The Loop",4.0,10,2,2
+Tapas Valencia,"1530 S State St (at 15th St) Chicago, IL 60605 Neighborhood: Near Southside",4.0,10,1,3
+Specialty's Cafe & Bakery,"191 N Wacker Dr (between Monroe St & Lasalle St) Chicago, IL 60606 Neighborhood: The Loop",4.0,9,2,1
+Renaissance Hotels and Resorts,"1 E Wacker Dr Chicago, IL 60601 Neighborhood: The Loop",4.0,4,0,0
+Fast Foo's,"28 E Jackson Blvd (between State St & Wabash Ave) Chicago, IL 60604 Neighborhood: The Loop",3.0,3,1,2
+Hotel Allegro,"171 W Randolph St (between Beaubien Ct & Stetson Ave) Chicago, IL 60601 Neighborhood: The Loop",4.0,9,0,0
+Market Creations,"130 E Randolph St (between Beaubien Ct & Stetson Ave) Chicago, IL 60601 Neighborhood: The Loop",4.0,8,3,2
+Arturo Express,"122 S Canal St (between Monroe St & Washington Blvd) Chicago, IL 60606 Neighborhood: Near West Side",4.0,9,0,0
+Manhattan's Bar,"415 S Dearborn St (between Congress Pky & Van Buren St) Chicago, IL 60605 Neighborhood: The Loop",3.0,2,0,1
+Opera,"1301 S Wabash Ave (between 13th St & 14th St) Chicago, IL 60605 Neighborhood: Near Southside",4.0,1,1,0
+Flat Top Stir-Fry Grill,"30 S Wabash Ave Chicago, IL 60603 Neighborhood: The Loop",4.0,14,1,2
+Grace O'Malley's,"1416 S Michigan Ave (at 14th St) Chicago, IL 60605 Neighborhood: Near Southside",3.0,1,0,0
+Gina's Cuisine,"424 S Wabash Ave (between Van Buren St & Congress Pky) Chicago, IL 60605 Neighborhood: The Loop",4.0,1,0,0
+The Gage,"24 S Michigan Ave (between Madison St & Monroe St) Chicago, IL 60603 Neighborhood: The Loop",4.0,7,3,2
+65 Asian Kitchen,"111 W Jackson Blvd Ste 1 (at Michigan Ave) Chicago, IL 60604 Neighborhood: The Loop",3.0,5,0,1
+Lakefront Childrens Academy,"400 E Randolph Street Ste. 6B (at Field Blvd) Chicago, IL 60601 Neighborhood: The Loop",5.0,7,0,0
+Sixty Five Chinese Restaurant,"336 N Michigan Ave (between Wacker Pl & Macchesneyer Dr) Chicago, IL 60601 Neighborhood: The Loop",3.0,2,0,0
+Sbarro,"233 N Michigan Ave (between Wacker Pl & Lake St) Chicago, IL 60601 Neighborhood: The Loop",3.0,2,0,1
+Oasis Cafe,"21 N Wabash Ave Chicago, IL 60602 Neighborhood: The Loop",4.0,5,2,0
+South Water Kitchen,"225 N Wabash Ave Chicago, IL 60601 Neighborhood: The Loop",4.0,1,0,0
+Jaffa Bakery,"201 N Clark St (between Lake St & Haddock Pl) Chicago, IL 60601 Neighborhood: The Loop",4.0,1,0,0
+Starbucks,"161 N Clark St (between Randolph St & Couch Pl) Chicago, IL 60601 Neighborhood: The Loop",4.0,6,0,0
+Abou Andre,"60 E Jackson Blvd (between Wabash Ave & Michigan Ave) Chicago, IL 60604 Neighborhood: The Loop",4.0,2,0,1
+Harry's Sandwich Shop,"336 S Dearborn St Chicago, IL 60604 Neighborhood: The Loop",3.0,8,0,1
+Qdoba Mexican Grill,"58 E Randolph St (between Garland Ct & Wabash Ave) Chicago, IL 60601 Neighborhood: The Loop",3.0,9,1,3
+The Great Steak and Potato Company,"77 W Jackson Blvd (between Wabash Ave & Michigan Ave) Chicago, IL 60604 Neighborhood: The Loop",4.0,0,0,2
+Starbucks,"70 W Madison St (between Garland Ct & Michigan Ave) Chicago, IL 60602 Neighborhood: The Loop",4.0,7,3,3
+Gioia Candy & More,"333 S State St (between Jackson Blvd & Van Buren St) Chicago, IL 60604 Neighborhood: The Loop",4.0,9,1,0
+The Southern Mac & Cheese Store,"60 E Lake St (between Wabash Ave & Dearborn St) Chicago, IL 60601 Neighborhood: The Loop",4.0,1,0,0
+Starbucks,"40 W Lake St (between State St & Wabash Ave) Chicago, IL 60601 Neighborhood: The Loop",4.0,5,0,1
+Which Wich,"108 North State Street, Block 37 Chicago, IL 60602 Neighborhood: The Loop",4.0,9,4,2
+Walgreens,"200 W Adams St (between Wells St & Franklin St) Chicago, IL 60606 Neighborhood: The Loop",3.0,3,0,0
+One North Fitness Center,"1 N Wacker Dr Ste 250 (between Madison St & State St) Chicago, IL 60606 Neighborhood: The Loop",3.0,9,2,3
+Andy's Frozen Custard,"108 N State St Chicago, IL 60601 Neighborhood: The Loop",4.0,2,0,2
+Hannah's Bretzel,"180 W Washington St (between La Salle St & Wells St) Chicago, IL 60602 Neighborhood: The Loop",4.0,8,0,1
+W Chicago - City Center,"172 West Adams Street (between La Salle St & Wells St) Chicago, IL 60603 Neighborhood: The Loop",4.0,2,0,2
+Starbucks,"100 S Wacker Dr Ste 100 (between Court Pl & Adams St) Chicago, IL 60606 Neighborhood: The Loop",5.0,7,1,0
+Garrett Popcorn Shops,"27 W Jackson Blvd (between Wabash Ave & State St) Chicago, IL 60604 Neighborhood: The Loop",4.0,7,1,1
+The Park Shoppe,"11 N Michigan Avenue Chicago, IL 60602 Neighborhood: The Loop",3.0,10,1,5
+Square One,"1400 S Michigan Ave (at 14th St) Chicago, IL 60605 Neighborhood: Near Southside",3.0,1,0,0

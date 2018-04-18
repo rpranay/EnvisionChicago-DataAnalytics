@@ -3,6 +3,16 @@ README
 
 Envision Chicago
 
+IMPORTANT: You need to download crimes data, Food inspection and business Licenses data from the following links and place it into the “Data” folder before using the frameworks.
+
+crimes data: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2/data
+business data: https://data.cityofchicago.org/Community-Economic-Development/Business-Licenses/r5kz-chrr/data'
+Food Inspection data: https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5/data
+
+Rename the crime data as “Crimes.csv”
+Rename the Business Licenses data as “Business_Licenses.csv”
+Rename the Food Inspection data as “Food_Inspection.csv”
+
 
 EnvisionChicagoFramework.py is the main executable file.
 

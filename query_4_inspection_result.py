@@ -86,4 +86,4 @@ def run_food_inspection_result():
             except IndexError:
                 continue
             writer.writerow(val)
-            progress(i, end, status='Writing data to query_4_food_inspection_result.csv')
+            progress(i, end, status='Writing data to Results/query_4_result.csv')

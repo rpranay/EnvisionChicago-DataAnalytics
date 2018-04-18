@@ -22,3 +22,4 @@ def run_sentiment_alignment():
 
     avg_user_ratings['average sentiments'] = max_sentiment_labels
     avg_user_ratings.to_csv("Results/query_6_result.csv")
+    print("The output is generated in Results/query_6_result.csv")

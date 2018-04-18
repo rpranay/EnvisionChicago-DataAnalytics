@@ -29,3 +29,4 @@ def run_restaurants_sentiments():
 
     result_pd = combined_file_pd[['restaurantID', 'name', 'reviewID', 'Review Sentiment', 'rating_y']]
     result_pd.to_csv("Results/query_5_result.csv")
+    print("The output is generated in Results/query_5_result.csv")

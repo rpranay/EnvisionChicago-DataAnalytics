@@ -28,5 +28,5 @@ def run_restaurants_sentiments():
     combined_file_pd['Review Sentiment'] = review_sentiment
 
     result_pd = combined_file_pd[['restaurantID', 'name', 'reviewID', 'Review Sentiment', 'rating_y']]
-    result_pd.to_csv("Results/query_5_result.csv")
+    result_pd.to_csv("Results/query_5_result.csv",index=False)
     print("The output is generated in Results/query_5_result.csv")

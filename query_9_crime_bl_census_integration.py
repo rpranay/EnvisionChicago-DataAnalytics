@@ -37,6 +37,6 @@ def run_crime_extraction_for_census():
     final_result=final_result[['tract_block','license desc','Arrest_x','Arrest_y']]
     final_result = final_result.rename(columns={'tract_block': 'Tract Number', 'license desc': 'No of restaurants with liquor sold','Arrest_x':'No of total Crimes','Arrest_y':'No of total arrests'})
 
-    final_result.to_csv("Results/query_9_result.csv")
+    final_result.to_csv("Results/query_9_result.csv",index=False)
 
     print("Output for query 9 is generated in the results directory")

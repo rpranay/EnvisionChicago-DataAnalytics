@@ -1,12 +1,7 @@
 import pandas as pd
-import re
-from difflib import SequenceMatcher
-import datetime
-import matplotlib.pyplot as plt
 
-
-crimes_file_path = "Crimes_Census_Final_output.csv"
-census_ages = "age_groups.csv"
+crimes_file_path = "Data/Crimes_Census_Integrated.csv"
+census_ages = "Data/age_groups.csv"
 
 
 def integrate_ages_crimes():
@@ -19,7 +14,6 @@ def integrate_ages_crimes():
     census_demographs.columns = [c.replace(' ', '_') for c in census_demographs.columns]
     census_demographs['census_block'] = census_demographs.apply(lambda row: my_fun(row), axis=1)
     census_demographs['max_age'] = census_demographs.apply(lambda row: my_fun2(row), axis=1)
-
 
     integrated = pd.merge(census_demographs,crimes_census, on=['census_block'])
 
@@ -50,18 +44,14 @@ def fun(x):
     return x
 
 
-def main():
+def generate_crime_stats():
     df = integrate_ages_crimes()
-
     no_crimes_data = pd.DataFrame({'crimes_no': df.groupby(['census_block','Primary_Type','year']).size()}).reset_index()
     df = pd.DataFrame({'unique': df.groupby(['census_block','max_age']).size()}).reset_index()
     df = df[['census_block', 'max_age']]
     final_frame = pd.merge(df,no_crimes_data,on=['census_block'])
-    final_frame.to_csv('Results/crime_statistics_out.csv', encoding='utf-8', index=False)
-    #df.plot.scatter(x='max_age', y='crimes_no');
-    print("Crime Statistics is Generated with the name crimes_statistics.csv in the Results folder")
+    final_frame = final_frame[['year','census_block', 'max_age', 'Primary_Type','crimes_no']]
+    final_frame = final_frame.rename(columns={'census_block':'Census Block','Primary_Type':'Crime Type','crimes_no':'#Crimes','max_age':'Age Group'})
 
-
-
-
-main()
+    final_frame.to_csv('Results/query3_result.csv', encoding='utf-8', index=False)
+    print("Crime Statistics is Generated with the name query_3_result.csv in the Results folder")

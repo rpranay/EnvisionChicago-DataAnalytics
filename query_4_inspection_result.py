@@ -4,7 +4,7 @@ import csv
 restaurant_data = {}
 
 
-def query_4_food_inspection_result():
+def run_food_inspection_result():
     with open('Data/restaurants_60601-60606.csv', newline='', encoding='utf8') as rev:
         r = csv.reader(rev, delimiter=',')
         i = 0
@@ -75,7 +75,7 @@ def query_4_food_inspection_result():
 
     i = 0
     end = len(restaurant_data)
-    with open('Results/query_4_food_inspection_result.csv', 'w', newline='', encoding='utf8') as writeFile:
+    with open('Results/query_4_result.csv', 'w', newline='', encoding='utf8') as writeFile:
         writer = csv.writer(writeFile, delimiter=',')
         writer.writerow(["Restaurant Name", "Address", "Average Yelp Review", "#Pass", "#Conditional", "#Failed Inspection"])
         for key, val in restaurant_data.items():

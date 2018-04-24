@@ -1,8 +1,8 @@
 import pandas as pd
+import utils
 
-
-crimes_data_path = "data/Crimes.csv"
-rest_biz_integrated_data_path = "data/Restaurant_Biz_Match.csv"
+crimes_data_path = "Data/Crimes.csv"
+rest_biz_integrated_data_path = "Data/Restaurant_Biz_Match.csv"
 
 
 def fetch_crimes():
@@ -28,7 +28,10 @@ def generate_crime_reports_blocks():
     rest_names = new_df['name'].unique()
     rest_names = rest_names.tolist()
 
+    prog=0
+
     for restaurant in rest_names:
+        prog = prog+1
 
         temp_rest_data = new_df[new_df['name'] == restaurant]
         check_license = temp_rest_data[temp_rest_data['licence_description'].str.contains("Liquor")].size > 0
@@ -65,6 +68,7 @@ def generate_crime_reports_blocks():
                     rest_main_df = pd.DataFrame(temp_rest_data).transpose()
                     final_loop_merge = pd.merge(rest_main_df, merged2, on=['Block'])
                     final_frame = final_frame.append(final_loop_merge)
+        utils.progress(prog, len(rest_names) - 1, status='Generating crime report')
 
     final_frame = final_frame[['Year','categories','name','address','has_Tobacco_license','has_liqour_license','Primary_Type',
                                'total','ArrestCount','onPrem']]
@@ -77,9 +81,9 @@ def generate_crime_reports_blocks():
 
     final_frame['Business Type'] = final_frame['Business Type'].apply(lambda x: refine_type(x))
 
-    final_frame.to_csv('Results/crimes_report_3_blocks.csv', encoding='utf-8', index=False)
+    final_frame.to_csv('Results/query1_result.csv', encoding='utf-8', index=False)
 
-    print("Crime report is Generated with the name crimes_report_3_blocks.csv in the Results folder")
+    print("Crime report is Generated with the name query_1_result.csv in the Results folder")
 
 
 def refine_type(x):
@@ -93,6 +97,5 @@ def refine_type(x):
     return out
 
 
-
-
-generate_crime_reports_blocks()
+if __name__ == 'main':
+    generate_crime_reports_blocks()

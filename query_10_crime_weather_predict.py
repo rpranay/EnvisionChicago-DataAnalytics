@@ -25,11 +25,26 @@ def run_crime_weather_predict():
     clf=naive_bayes.MultinomialNB()
     clf.fit(X, y)
 
+<<<<<<< HEAD
+
+    #Change the below entries with desired values for prediction
+=======
+>>>>>>> 7f1dad427370e57b15c0434384dc3138b5d47c2d
     test_X1=[[2517001040,2018,5,35]]
     test_X2=[[7001002031,2019,6,23]]
     test_X3=[[8387002003,2018,3,38]]
 
     crime_type1 = le_crime.inverse_transform(clf.predict(test_X1))[0]
+<<<<<<< HEAD
+    prob1 = clf.predict_proba(test_X1)
+
+    crime_type2 = le_crime.inverse_transform(clf.predict(test_X2))[0]
+    prob2 = clf.predict_proba(test_X2)
+
+
+    crime_type3 = le_crime.inverse_transform(clf.predict(test_X3))[0]
+    prob3 = clf.predict_proba(test_X3)
+=======
     print(clf.predict(test_X1))
     prob1 = clf.predict_proba(test_X1)
     print(round(prob1.max(), 2))
@@ -46,10 +61,20 @@ def run_crime_weather_predict():
     prob3 = clf.predict_proba(test_X3)
     print(round(prob3.max(), 2))
     print(crime_type3)
+>>>>>>> 7f1dad427370e57b15c0434384dc3138b5d47c2d
 
     data = []
     data.append(["Tract Block","Year","month","Mean Temperature","Primary Type","Probability"])
     # data.append([])
+<<<<<<< HEAD
+    data.append([test_X1[0][0],test_X1[0][1],test_X1[0][2],test_X1[0][3],crime_type1,prob1])
+    # data.append([])
+    data.append([test_X2[0][0],test_X2[0][1],test_X2[0][2],test_X2[0][3],crime_type2,prob2])
+    # data.append([])
+    data.append([test_X3[0][0],test_X3[0][1],test_X3[0][2],test_X3[0][3],crime_type3,prob3])
+    finaldf=pd.DataFrame(data)
+    finaldf.to_csv("Results/query_10_result.csv",index=False)
+=======
     data.append([2517001040,2018,5,35,crime_type1,prob1])
     # data.append([])
     data.append([7001002031,2019,6,23,crime_type2,prob2])
@@ -58,4 +83,5 @@ def run_crime_weather_predict():
     print(data)
     finaldf=pd.DataFrame(data)
     finaldf.to_csv("Result/query_10_result.csv")
+>>>>>>> 7f1dad427370e57b15c0434384dc3138b5d47c2d
     print("Crime and Weather statistics are generated with the name query_10_result.csv in the results folder")

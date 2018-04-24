@@ -21,5 +21,5 @@ def run_sentiment_alignment():
         utils.progress(i, end-1, status='Assigning sentiment to restaurants')
 
     avg_user_ratings['average sentiments'] = max_sentiment_labels
-    avg_user_ratings.to_csv("Results/query_6_result.csv")
+    avg_user_ratings.to_csv("Results/query_6_result.csv",index=False)
     print("The output is generated in Results/query_6_result.csv")
